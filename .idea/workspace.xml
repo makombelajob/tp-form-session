@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c03db0f-1739-4c3b-8f1c-c56e991342f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/07-fevrier/GMT20250210-080607_Recording.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/07-fevrier/GMT20250210-080607_Recording.transcript.vtt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/07-fevrier/GMT20250210-080607_Recording_1920x1080.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/10-fevrier/GMT20250211-123500_Recording.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/10-fevrier/GMT20250211-123500_Recording.transcript.vtt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/10-fevrier/GMT20250211-123500_Recording_3440x1440.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/10-fevrier/GMT20250214-090054_Recording_1832x982.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/13-fevrier/GMT20250213-081316_Recording.m4a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/13-fevrier/GMT20250213-081316_Recording.transcript.vtt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/13-fevrier/GMT20250213-081316_Recording_1920x1200.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/13-fevrier/GMT20250214-090054_Recording.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/13-fevrier/GMT20250214-090054_Recording.transcript.vtt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/24-janvier/GMT20250124-080237_Recording.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/24-janvier/GMT20250124-080237_Recording.transcript.vtt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/24-janvier/GMT20250124-080237_Recording_1920x1080.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/24-janvier/GMT20250128-133522_Recording.transcript.vtt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/28-Janvier/GMT20250128-133522_Recording.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/28-Janvier/GMT20250128-133522_Recording.transcript.vtt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/28-Janvier/GMT20250128-133522_Recording_1920x1200.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/29-Janvier/GMT20250129-133326_Recording.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/29-Janvier/GMT20250129-133326_Recording.transcript.vtt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/29-Janvier/GMT20250129-133326_Recording_1920x1080.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/29-Janvier/GMT20250130-080343_Recording.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/29-Janvier/GMT20250130-080343_Recording.transcript.vtt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Docs-Others/29-Janvier/GMT20250130-080343_Recording_1920x1200.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/TP-semain-27-Jan/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/TP-semain-27-Jan/Educaton" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/TP-semain-27-Jan/hebergement" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/TP-semain-27-Jan/jean-dubois" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/Tp-moodle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/destination/flex/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/destination/flex/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/destination/flex/images/Cairo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/destination/flex/images/New_York.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/destination/flex/images/Paris.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/destination/flex/images/Tokyo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/destination/flex/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Flex/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Flex/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Flex/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Grid/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Grid/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Grid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Grid/media/top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Grid/media/villa.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Grid/media/villa1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Grid/media/villa2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Grid/media/villa3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Grid/media/villa4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Grid/media/villa5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/ai-question.odt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/ai-question.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-1/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-10/js/dist/script.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-10/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-2/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-3/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-4/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-5/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-6/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-7/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-7/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-8/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-8/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-9/js/dist/script.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/DOM/tp-9/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-1/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-10/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-11/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-11/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-12/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-12/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-13/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-13/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-14/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-14/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-16/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-16/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-2/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-3/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-4/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-5/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-6/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-7/js/scrifpt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-8/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Eedn/tp-9/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Object/tp-1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Object/tp-1/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Object/tp-2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/Object/tp-2/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/array" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/function-file/all-function.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/typeAiExo/ai-question" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/typeAiExo/boulce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/typeAiExo/exoAiJs.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/typeAiExo/exoForWhile.odt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Perso/typeAiExo/tableau.odt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../carte/.idea/carte.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chart/.idea/chart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../form/.idea/form.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../form/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../form/TP_Form/TP_Form.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../form/TP_Form/TP_Form/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../form/TP_Form/TP_Form/images/sprite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../form/TP_Form/TP_Form/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../form/TP_Form/TP_Form/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../form/Validation de formulaire.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../form/form/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../form/form/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../form/form/images/sprite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../form/form/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../form/form/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sessionStorage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../moodle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../template/chatCopy/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Html-Css/15-Janvier" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/15-Janvier" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Html-Css/24-Janvier" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/24-Janvier" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/Docs/Exercices de révision.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/destination/Grid/Docs/Exercices de révision.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/destination/Grid/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/destination/Grid/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/images/Cairo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/destination/Grid/images/Cairo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/images/New_York.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/destination/Grid/images/New_York.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/images/Paris.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/destination/Grid/images/Paris.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/images/Tokyo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/destination/Grid/images/Tokyo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/images/top.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Flex/media/top.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/images/villa.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Flex/media/villa.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/images/villa1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Flex/media/villa1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/images/villa2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Flex/media/villa2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/images/villa3.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Flex/media/villa3.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/images/villa4.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Flex/media/villa4.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/images/villa5.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Flex/media/villa5.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/destination/Grid/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../file-vert" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../file-vert" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2ti7W35UM874UsJniy6olKIKhlx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "eedn-web",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-WS-243.24978.60" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c03db0f-1739-4c3b-8f1c-c56e991342f0" name="Changes" comment="" />
+      <created>1740823072157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740823072157</updated>
+      <workItem from="1740823073684" duration="1212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
