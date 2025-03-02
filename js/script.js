@@ -1,93 +1,43 @@
-let pseudoValid = false, emailValid = false, messageValid = false, rgpdValid = false;
+let nameValid = emailValid = false;
+const btnSubmit = document.querySelector("#infonext");
 
-
-const btnSubmit = document.querySelector("#btnSubmit");
-
-function toutValid() {
-    btnSubmit.disabled = !(pseudoValid && emailValid && messageValid && rgpdValid);
+function toutValid(){
+    btnSubmit.disabled = !(nameValid && emailValid);
 }
-
-const pseudo = document.querySelector("#name");
-pseudo.addEventListener("change", function () {
-    if (pseudo.value.length < 5) {
-        alert("le Nom dois contenir plus de 5 lettre");
-        pseudoValid = false;
-    } else {
-        sessionStorage.setItem("pseudo", `${pseudo.value}`);
-        pseudoValid = true;
+const nameUser = document.querySelector("#name");
+nameUser.addEventListener("change", function() {
+    if(nameUser.value.length < 5) {
+        alert("🤦‍♂️Vous devez entre un nom de plus de 5 lettres");
+        nameValid = false;
+    }else{
+        sessionStorage.setItem("nom", `${nameUser.value}`);
+        nameValid = true;
     }
     toutValid();
 });
 
 const email = document.querySelector("#email");
-email.addEventListener("change", function () {
+email.addEventListener("change", function() {
     const regex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
-    if (!regex.test(email.value)) {
-        alert("Vous devez entrez un email valid");
+    if(!regex.test(email.value)){
+        alert("Vous devez entrer un email valid (*>﹏<*)");
         emailValid = false;
-    } else {
+    }else{
         sessionStorage.setItem("email", `${email.value}`);
         emailValid = true;
     }
     toutValid();
 });
 
-const message = document.querySelector("#message");
-message.addEventListener("change", function() {
-    if(message.value.length < 0) {
-        alert("Veuillez saisirs un message");
-        messageValid = false;
-    }else{
-        sessionStorage.setItem("message", `${message.value}`);
-        messageValid = true;
-    }
-    toutValid();
-});
-
-const rgpd = document.querySelector("#checkbox");
-rgpd.addEventListener("change", function() {
-    if(!rgpd.checked){
-        alert("Veuillez cochez la case RGPD");
-        rgpdValid = false;
-    }else{
-        sessionStorage.setItem("rgpd", `${rgpd.checked}`);
-        rgpdValid = true;
-    }
-    toutValid();
-});
-
-const form = document.querySelector("form");
+const form = document.querySelector("#info");
 form.addEventListener("submit", function(event) {
     event.preventDefault();
-    if(pseudoValid && emailValid && messageValid && rgpdValid){
+    if(nameValid && emailValid){
         btnSubmit.removeAttribute("disabled");
-        this.submit();
+        window.location.href = "html/adresse.html";
     }else{
-        const evenement = new Event("change");
-        pseudo.dispatchEvent(evenement);
-        email.dispatchEvent(evenement);
-        message.dispatchEvent(evenement);
-        rgpd.dispatchEvent(evenement);
-    }
-});
-
-const pseudoSession = sessionStorage.getItem("pseudo");
-const emailSession = sessionStorage.getItem("email");
-const messageSession = sessionStorage.getItem("message");
-const rgpdSession = sessionStorage.getItem("rgpd");
-if(!(pseudoSession && emailSession && messageSession && rgpdSession)){
-    alert("Les stockages es vide 👌");
-}else{
-    alert(`le nom stocker est: 🤡${pseudoSession}🤡 et email : 🖥️${emailSession}🖥️ avec comme message envoyer : 🕊️${messageSession}🕊️ et le rgpd est en état 👽${rgpdSession}👽`);
-}
-
-
-const btnReset = document.querySelector("#reset");
-btnReset.addEventListener("click", function(){
-    if(confirm("Voulez-vous supprimer les stockage")){
-        sessionStorage.clear();
-    }
-    if(!(pseudoSession && emailSession && messageSession && rgpdSession)){
-        alert("le stockage est vide, rien à supprimer")
+        const revetment = new Event("change");
+        nameUser.dispatchEvent(revetment);
+        email.dispatchEvent(revetment);
     }
 });

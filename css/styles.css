@@ -25,6 +25,12 @@ main {
         color: white;
         padding: 1rem;
         border-radius: 3rem;
+        textarea,
+        label,
+        input,
+        button {
+            font-size : 2rem;
+        }
         #image {
             text-align: center;
             margin: 1rem;
@@ -37,16 +43,16 @@ main {
         input:not([type="checkbox"]),
         textarea {
             width: 100%;
-        }
-        label {
-            font-size: 2rem;
+            height: 3rem;
+            margin-block: 1rem;
         }
     }
     .btn {
         text-align: center;
-        button {
+        button{
             padding: 0.5rem;
             margin-block: 1rem;
         }
     }
 }
+

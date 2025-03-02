@@ -128,7 +128,6 @@
       <change afterPath="$PROJECT_DIR$/../../chart/.idea/chart.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../form/.idea/form.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../form/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../form/TP_Form/TP_Form.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../form/TP_Form/TP_Form/css/styles.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../form/TP_Form/TP_Form/images/sprite.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../form/TP_Form/TP_Form/index.html" afterDir="false" />
@@ -139,10 +138,10 @@
       <change afterPath="$PROJECT_DIR$/../../form/form/images/sprite.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../form/form/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../form/form/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sessionStorage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/adresse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/confirm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/adresse.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../moodle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../template/chatCopy/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Html-Css/15-Janvier" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/15-Janvier" afterDir="false" />
@@ -162,6 +161,11 @@
       <change beforePath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/images/villa4.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Flex/media/villa4.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/images/villa5.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Flex/media/villa5.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/destination/Grid/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../file-vert" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../file-vert" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,37 +173,50 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2ti7W35UM874UsJniy6olKIKhlx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "eedn-web",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;I:/GitHub/eedn-web/Front-End/JavaScript/localStorage/sessionStorage&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-WS-243.24978.60" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
       </set>
     </attachedChunks>
   </component>
@@ -212,6 +229,9 @@
       <option name="presentableId" value="Default" />
       <updated>1740823072157</updated>
       <workItem from="1740823073684" duration="1212000" />
+      <workItem from="1740906770754" duration="8000" />
+      <workItem from="1740913484677" duration="4037000" />
+      <workItem from="1740936268155" duration="7459000" />
     </task>
     <servers />
   </component>
