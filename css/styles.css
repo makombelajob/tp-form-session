@@ -55,4 +55,14 @@ main {
         }
     }
 }
+#display{
+    border : 1px solid black;
+    font-size : 2rem;
+    width: 90%;
+    margin: 2rem auto ;
+    padding: 2rem;
+    background-color: black;
+    color: white;
+    border-radius : 2rem;
+}
 

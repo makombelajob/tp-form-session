@@ -1,6 +1,13 @@
 let countryValid = villeValid = adresseValid = false;
 
 const btnNext = document.querySelector("#nextconfirm");
+
+const prevPage = document.querySelector("#prev");
+prevPage.removeAttribute("disabled");
+prevPage.addEventListener("click", function() {
+    window.location.href = "../index.html";
+});
+
 function toutValid() {
     btnNext.disabled = !(countryValid && villeValid && adresseValid);
 }

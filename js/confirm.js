@@ -28,3 +28,9 @@ formConfirm.addEventListener("submit", function(event) {
         checkBox.dispatchEvent(tenement);
     }
 });
+
+const prevAdr = document.querySelector("#prevadr");
+prevAdr.removeAttribute("disabled");
+prevAdr.addEventListener("click", function() {
+    window.location.href = "adresse.html";
+});

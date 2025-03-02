@@ -138,10 +138,8 @@
       <change afterPath="$PROJECT_DIR$/../../form/form/images/sprite.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../form/form/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../form/form/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/adresse.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/confirm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/welcome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/adresse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/reset.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../moodle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../template/chatCopy/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Html-Css/15-Janvier" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/15-Janvier" afterDir="false" />
@@ -161,11 +159,14 @@
       <change beforePath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/images/villa4.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Flex/media/villa4.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/images/villa5.webp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/kiloulux/Flex/media/villa5.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Html-Css/tp-weekend/destination/Grid/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/adresse.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/adresse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/confirm.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/confirm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/welcome.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/adresse.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/adresse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/confirm.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/confirm.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../file-vert" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../file-vert" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -176,14 +177,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -231,7 +236,7 @@
       <workItem from="1740823073684" duration="1212000" />
       <workItem from="1740906770754" duration="8000" />
       <workItem from="1740913484677" duration="4037000" />
-      <workItem from="1740936268155" duration="7459000" />
+      <workItem from="1740936268155" duration="11178000" />
     </task>
     <servers />
   </component>
